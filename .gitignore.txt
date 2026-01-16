@@ -13,6 +13,7 @@ build/
 *.opendb
 *.sdf
 *.opensdf
+*.exe
 
 # Qt
 *.pro.user
